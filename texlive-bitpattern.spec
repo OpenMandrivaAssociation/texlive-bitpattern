@@ -1,6 +1,6 @@
 Name:		texlive-bitpattern
 Version:	39073
-Release:	1
+Release:	2
 Summary:	Typeset bit pattern diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bitpattern
