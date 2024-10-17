@@ -3,7 +3,7 @@ Version:	39073
 Release:	2
 Summary:	Typeset bit pattern diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bitpattern
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bitpattern
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bitpattern.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bitpattern.doc.r%{version}.tar.xz
